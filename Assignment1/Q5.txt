@@ -1,0 +1,6 @@
+Objects, whose values can be changed once they are created, are called to be mutable. If the values can't be changed objects are called immutable.
+	strings 	-> 	immutable
+	list		->	mutable
+	tuple		-> 	immutable
+	dictionary	->	mutable
+

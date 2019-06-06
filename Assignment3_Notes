@@ -1,0 +1,11 @@
+Important points noted:
+
+1. For same train-test split, SVM with 'rbf' kernel gives 0.5577 accuracy 
+   while SVC with 'linear' kernel gives 0.8077 accuracy.
+   Data may be linearly separable. 
+
+2. In decision tree, as the minimum number of samples required to split an internal node increased,
+   The accuracy decreased. The Graph is plotted and the value with highest accuracy is choosen.
+
+
+ 
